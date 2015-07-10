@@ -11,11 +11,11 @@ function bp_like_install() {
 		$default_text_strings = array(
 			'like' => array(
 				'default'	=> __('Like', 'buddypress-like'), 
-				'custom'	=> __('Like', 'buddypress-like')
+				'custom'	=> __('Merci', 'buddypress-like')
 			),
 			'unlike' => array(
 				'default'	=> __('Unlike', 'buddypress-like'),
-				'custom'	=> __('Unlike', 'buddypress-like')
+				'custom'	=> __('Ne plus remercier', 'buddypress-like')
 			),
 			'like_this_item' => array(
 				'default'	=> __('Like this item', 'buddypress-like'),
